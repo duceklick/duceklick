@@ -5,9 +5,10 @@ Hello everyone and welcome to my GitHub page, my name is Thomas, but I do like t
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Phish and Chips (Fullstack Academy Capstone Project) | June 2025
-- Penetration Testing Simulation (Fullstack Academy Project) | June 2025
-- Onboarding Security Runbook (Fullstack Academy Project) | May 2025
+- [Phish and Chips (Fullstack Academy Capstone Project) | June 2025](https://www.linkedin.com/feed/update/urn:li:activity:7346722511268519936/)
+- [Penetration Testing Simulation (Fullstack Academy Project) | June 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345471797674262529/)
+- [Onboarding Security Runbook (Fullstack Academy Project) | May 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345470865796493314/)
+- [Network Security Plan (Fullstack Academy Project) | May 2025](https://www.linkedin.com/feed/update/urn:li:activity:7349503826342670336/)
 
 
 <h2>📜 Certifications</h2>
