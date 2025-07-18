@@ -18,18 +18,32 @@ Hello everyone and welcome to my GitHub page, my name is Thomas, but I do like t
 - Emergency Medical Technician (2014)
 - AHA BLS - Basic Life Support (2014)
 
+<h2>🔭 What I Am Currently Working On</h2>
+
+- Studying for the CompTIA Security+ exam
+- Daily TryHackMe learning sessions
+- Building a Home Network (Once finished will add to my Cybersecurity Projects)
+
+<h2>⚡ Fun Facts About Me:</h2>
+
+- My dad as well as almost every man in my family was in some branch of the military, so I raised very strict and military like. My parents growing up also were considered the "cool parents" per my friends 😁.
+- I am in love in Video Games, my first memory of playing Video Games was playing my Dad's PS1 back in an old trailer on a little farm in Texas we lived in.
+- I love puzzles or anything similar that gets my brain going. If it makes me think, I want to do it!
+- I am from Texas. Lived in the Houston area from birth until I was 20 years old. Moved to Louisiana 10 years ago and still living here. Only regret is I wish the food here did not taste SOOO good.
+- I started playing the Pokemon TCG in the beginning of 2025, and since then I have played in countless tournaments as well as competiting to NAIC!
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ThomasWeippert | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ThomasWeippert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ThomasWeippert | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/duceklick
+[twitter]: https://www.x.com/duceklick
 [instagram]: https://www.instagram.com/ducekgaming/
-[linkedin]: https://linkedin.com/in/tjweippert
+[linkedin]: https://www.linkedin.com/in/tjweippert
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tjweippert/tjweippert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
